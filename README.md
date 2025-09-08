@@ -33,9 +33,14 @@
 
 <h3 align="center">Contacta conmigo a través de:</h3>
 <div align="center">
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arantzaalcazar/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/otraarantza/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arantzaalcazar@gmail.com)  
+  <p align='center'>
+<a href="mailto:arantzaalcazar@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/arantzaalcazar/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/otraarantza/" target="_blank">
+<img src="https://img.shields.io/badge/otraArantza-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
+
 </div>
 
 <hr>
