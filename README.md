@@ -16,7 +16,7 @@
 
 - 🔭 Actualmente estoy estudiando **2º DAM**
 
-- 🌱 Estoy aprendiendo **Java, Python, SQL, HTML5 and CSS3**
+- 🌱 Estoy aprendiendo **Java, Python, SQL, JavaScript, PHP, HTML5 and CSS3**
 
 - 👯 Me encantaría colaborar en **proyectos de back-end**
 
@@ -24,7 +24,7 @@
 
 - 📫 Podéis contactar conmigo en: **arantzaalcazar@gmail.com**
 
-- ⚡ También me gusta: **Leer, Escribir, Escuchar y hablar con la gente, Nadar, CrossFit, Senderismo...y sobre todo Programar**
+- ⚡ También me gusta: **Leer, escribir, escuchar y hablar con la gente, nadar, crossFit, senderismo...y sobre todo programar**
 
 </h3>
 
@@ -38,8 +38,8 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/arantzaalcazar/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/otraarantza/" target="_blank">
-<img src="https://img.shields.io/badge/otraArantza-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
+<!--<a href="https://www.instagram.com/otraarantza/" target="_blank">
+<img src="https://img.shields.io/badge/otraArantza-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;-->
 
 </div>
 
@@ -52,7 +52,7 @@
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ArantzaAAR&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 </p>
 <p align='center'>
-<h6>Nota : Este no es un indicativo de mi nivel con los diferentes lenguajes, solo es una métrica de mi reositorio en GitHub.</h6>
+<h6>Nota : Este no es un indicativo de mi nivel con los diferentes lenguajes, solo es una métrica de mi repositorio en GitHub.</h6>
 </p>
 
 <hr>
@@ -77,7 +77,7 @@
 </p>
 <br>
 
-### IDEs/Editors 👨‍🔧 :
+### IDEs/Editores 👨‍🔧 :
 <br>
 <p align="center">
 <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">&nbsp;&nbsp;
@@ -95,7 +95,7 @@
 </p>
 <br>
 
-### Database 💾 :
+### Bases de Datos 💾 :
 <br>
 <p align='center'>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
@@ -104,7 +104,7 @@
 </p>
 <br>
 
-<h2 align='center'>Ayúdame a creer con alguna ⭐ en Mi Repositorio</h2>
+<h2 align='center'>Ayúdame a crecer con alguna ⭐ en Mi Repositorio</h2>
 <br>
 
 <p align='center'>
