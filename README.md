@@ -1,6 +1,6 @@
-<h1 align='center'> ¡Hola!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>, Soy Arantza Alcázar. Bienvenidos a mi repo</h1>
+<h1 align='center'> Hello!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>, I´m Arantza Alcázar. Welcome to my</h1>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Estudiante+DAM;En+Continuo+Aprendizaje+🚀;arantzaalcazar@gmail.com">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=DAM+Student;In+Continuous+Learning+🚀;arantzaalcazar@gmail.com">
 </p>
 <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
@@ -11,27 +11,27 @@
 </p>
 <br>
 
-## Soy un apasionada de la programación y del Back-End ❤️
+## I'm passionate about programming and Back-End ❤️
 <h3>
 
-- 🔭 Actualmente estoy estudiando **2º DAM**
+🔭 I’m currently studying 2nd year of Multi-Platform Application Development (DAM)
 
-- 🌱 Estoy aprendiendo **Java, Python, SQL, JavaScript, PHP, HTML5 and CSS3**
+🌱 I’m learning Java, Python, SQL, JavaScript, PHP, HTML5 and CSS3
 
-- 👯 Me encantara colaborar en **proyectos de back-end**
+👯 I'd love to collaborate on back-end projects
 
-- 📍 Vivo en **Madrid, España**
+📍 Based in Madrid, Spain
 
-- 📫 Podéis contactar conmigo en: **arantzaalcazar@gmail.com**
+📫 How to reach me: arantzaalcazar@gmail.com
 
-- ⚡ También me gusta: **Leer, escribir, escuchar y hablar con la gente, nadar, crossFit, senderismo...y sobre todo programar**
+⚡ Fun fact: I love reading, writing, listening and talking to people, swimming, CrossFit, hiking...and above all, programming
 
 </h3>
 
 <hr>
 <br>
 
-<h3 align="center">Contacta conmigo a través de:</h3>
+<h3 align="center">Connect with me:</h3>
 <div align="center">
   <p align='center'>
 <a href="mailto:arantzaalcazar@gmail.com" target="_blank">
@@ -46,24 +46,24 @@
 <hr>
 <br>
 
-## Lenguajes más utilizados en el repositorio 📚
+## Most Used Languages in My Repository  📚
 <br>
 <p align='center'>
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ArantzaAAR&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 </p>
 <p align='center'>
-<h6>Nota : Este no es un indicativo de mi nivel con los diferentes lenguajes, solo es una métrica de mi repositorio en GitHub.</h6>
+<h6>Note: This is not an indicator of my skill level with different languages, it's just a metric of my GitHub repository.</h6>
 </p>
 
 <hr>
 <br>
 
-## Pasión Tecnológica 💻
+## Tecnology Passion 💻
 
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
-### Lenguajes de Programación 👨‍💻 :
+### Programming Languages 👨‍💻 :
 <br>
 <p align='center'>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;&nbsp;
@@ -76,7 +76,7 @@
 </p>
 <br>
 
-### IDEs/Editores 👨‍🔧 :
+### IDEs/Editors 👨‍🔧 :
 <br>
 <p align="center">
 <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">&nbsp;&nbsp;
@@ -86,7 +86,7 @@
 </p>
 <br>
 
-### Control de Versiones  🔧 :
+### Version Control 🔧 :
 <br>
 <p align='center'>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
@@ -94,7 +94,7 @@
 </p>
 <br>
 
-### Bases de Datos 💾 :
+### Database 💾 :
 <br>
 <p align='center'>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
@@ -103,14 +103,14 @@
 </p>
 <br>
 
-<h2 align='center'>Ayúdame a crecer con alguna ⭐ en Mi Repositorio</h2>
+<h2 align='center'>Help me grow with a ⭐ on My Repository</h2>
 <br>
 
 <p align='center'>
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
 
-<h2 align='center'>¡¡¡Muchas Gracias!!!</h2>
+<h2 align='center'>Thank you so much!!!</h2>
 
 <br>
 
