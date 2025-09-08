@@ -18,7 +18,7 @@
 
 - 🌱 Estoy aprendiendo **Java, Python, SQL, JavaScript, PHP, HTML5 and CSS3**
 
-- 👯 Me encantaría colaborar en **proyectos de back-end**
+- 👯 Me encantara colaborar en **proyectos de back-end**
 
 - 📍 Vivo en **Madrid, España**
 
