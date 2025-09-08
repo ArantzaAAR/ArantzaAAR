@@ -1,4 +1,4 @@
-<h1 align='center'> Hello!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>, I´m Arantza Alcázar. Welcome to my</h1>
+<h1 align='center'> Hello!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>, I´m Arantza Alcázar. Welcome to my repo.</h1>
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=DAM+Student;In+Continuous+Learning+🚀;arantzaalcazar@gmail.com">
 </p>
