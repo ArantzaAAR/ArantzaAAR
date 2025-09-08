@@ -112,7 +112,7 @@
 <hr>
 <br>
 
-<h2 align='center'>Ayúma de a creer con alguna ⭐ en Mi Repositorio</h2>
+<h2 align='center'>Ayúdame a creer con alguna ⭐ en Mi Repositorio</h2>
 <br>
 
 <p align='center'>
