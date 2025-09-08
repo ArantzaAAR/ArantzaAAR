@@ -104,14 +104,6 @@
 </p>
 <br>
 
-## ¡Espero que la serpiente no se muera de hambre con mis contribuciones! 🐍
-<p align='center'>
-<img src="https://github.com/ArantzaAAR/ArantzaAAR/raw/output/github-contribution-grid-snake.svg">
-</p>
-
-<hr>
-<br>
-
 <h2 align='center'>Ayúdame a creer con alguna ⭐ en Mi Repositorio</h2>
 <br>
 
